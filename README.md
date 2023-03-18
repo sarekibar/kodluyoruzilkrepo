@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://chooseal
-![patika](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/<down-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
